@@ -1,97 +1,73 @@
 [
 {
 "id": 0,
-"name": "Superman",
+"name": "Tax",
 "text": "Text field",
 "description": "Description Field",
-"price": 1000,
-"strength": 10,
-"intelligence": 7,
-"speed": 9
+"price": 1000
 },
 {
 "id": 1,
-"name": "Batman",
+"name": "Pay a bill",
 "text": "Text field",
 "description": "Description Field",
-"price": 1000,
-"strength": 7,
-"intelligence": 10,
-"speed": 6
+"price": 1000
 },
 {
 "id": 2,
-"name": "Wonderwoman",
+"name": "Invest",
 "text": "Text field",
 "description": "Description Field",
-"price": 1000,
-"strength": 5,
-"intelligence": 9,
-"speed": 7
+"price": 1500
 },
 {
 "id": 3,
-"name": "Flash",
+"name": "Buy Stocks",
 "text": "Text field",
 "description": "Description Field",
-"price": 1000,
-"strength": 5,
-"intelligence": 6,
-"speed": 10
+"price": 1000
 },
 {
 "id": 4,
-"name": "Green Lantern",
+"name": "Equipment",
 "text": "Text field",
 "description": "Description Field",
-"price": 1000,
-"strength": 7,
-"intelligence": 8,
-"speed": 7
+"price": 3000
 },
 {
 "id": 5,
-"name": "Aquaman",
+"name": "Salary",
 "text": "Text field",
 "description": "Description Field",
-"price": 1000,
-"strength": 8,
-"intelligence": 7,
-"speed": 8
+"price": 1200
 },
 {
 "id": 6,
-"name": "Cyborg",
+"name": "IPO",
 "text": "Text field",
 "description": "Description Field",
-"price": 1000,
-"strength": 9,
-"intelligence": 8,
-"speed": 6
+"price": 40000
 },
 {
 "id": 7,
-"name": "Green Arrow",
+"name": "Buy bitcoins",
 "text": "Text field",
 "description": "Description Field",
-"price": 1000,
-"strength": 5,
-"intelligence": 9,
-"speed": 7
+"price": 1000
 },
 {
 "id": 8,
-"name": "Hawkman",
+"name": "Sell bitcoins",
 "text": "Text field",
 "description": "Description Field",
-"price": 1000,
+"price": 100,
 "strength": 5,
 "intelligence": 8,
 "speed": 8
 },
 {
 "id": 9,
-"name": "Supergirl",
+"name": "Another Tax",
 "text": "Text field",
 "description": "Description Field",
 "price": 1000,
