@@ -1,0 +1,102 @@
+[
+{
+"id": 0,
+"name": "Superman",
+"text": "Text field",
+"description": "Description Field",
+"price": 1000,
+"strength": 10,
+"intelligence": 7,
+"speed": 9
+},
+{
+"id": 1,
+"name": "Batman",
+"text": "Text field",
+"description": "Description Field",
+"price": 1000,
+"strength": 7,
+"intelligence": 10,
+"speed": 6
+},
+{
+"id": 2,
+"name": "Wonderwoman",
+"text": "Text field",
+"description": "Description Field",
+"price": 1000,
+"strength": 5,
+"intelligence": 9,
+"speed": 7
+},
+{
+"id": 3,
+"name": "Flash",
+"text": "Text field",
+"description": "Description Field",
+"price": 1000,
+"strength": 5,
+"intelligence": 6,
+"speed": 10
+},
+{
+"id": 4,
+"name": "Green Lantern",
+"text": "Text field",
+"description": "Description Field",
+"price": 1000,
+"strength": 7,
+"intelligence": 8,
+"speed": 7
+},
+{
+"id": 5,
+"name": "Aquaman",
+"text": "Text field",
+"description": "Description Field",
+"price": 1000,
+"strength": 8,
+"intelligence": 7,
+"speed": 8
+},
+{
+"id": 6,
+"name": "Cyborg",
+"text": "Text field",
+"description": "Description Field",
+"price": 1000,
+"strength": 9,
+"intelligence": 8,
+"speed": 6
+},
+{
+"id": 7,
+"name": "Green Arrow",
+"text": "Text field",
+"description": "Description Field",
+"price": 1000,
+"strength": 5,
+"intelligence": 9,
+"speed": 7
+},
+{
+"id": 8,
+"name": "Hawkman",
+"text": "Text field",
+"description": "Description Field",
+"price": 1000,
+"strength": 5,
+"intelligence": 8,
+"speed": 8
+},
+{
+"id": 9,
+"name": "Supergirl",
+"text": "Text field",
+"description": "Description Field",
+"price": 1000,
+"strength": 10,
+"intelligence": 9,
+"speed": 7
+}
+]
