@@ -1,13 +1,17 @@
 import { combineReducers } from 'redux';
 
-import characters from './characters_reducer';
-import invoices from './invoices_reducer';
+import todos, * as fromTodos from './todo';
+import filter from './filter';
+import fetching from './fetching';
 
- 
+const reducer = combineReducers({
+    todos,
+    filter,
+    fetching
+});
 
-const rootReducer = combineReducers({
-	characters,
-	invoices
-})
+export default reducer;
 
-export default rootReducer;
+export function getFilteredTodos(state) {
+    return fromTodos.getFilteredTodos(state.todos, state.filter);
+}
